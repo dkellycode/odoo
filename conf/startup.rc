@@ -1,0 +1,20 @@
+[options]
+
+# admin_passwd is provided by ODOO_ADMIN_PASSWD in ~/.bashrc
+
+addons_path = /home/dazz/odoo/odoo/addons,/home/dazz/odoo/odoo/custom
+
+data_dir = /tmp/data-dir/odoo
+
+db_host = localhost
+db_port = 5432
+db_user = odoo
+
+
+http_port = 38069
+gevent_port = 38070
+
+log_level = debug
+#logfile = /tmp/data-dir/odoo/odoo.log
+limit_time_real = 0
+
