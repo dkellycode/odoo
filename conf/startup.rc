@@ -2,7 +2,7 @@
 
 # admin_passwd is provided by ODOO_ADMIN_PASSWD in ~/.bashrc
 
-addons_path = /home/dazz/odoo/odoo/addons,/home/dazz/odoo/odoo/custom
+addons_path = /home/dazz/odoo/addons,/home/dazz/odoo/custom
 
 data_dir = /tmp/data-dir/odoo
 
